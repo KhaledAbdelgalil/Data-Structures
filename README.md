@@ -5,8 +5,11 @@ by University of California San Diego & National Research University Higher Scho
 A few examples of questions that we are going to cover in this class are the following:
 
  1.What is a good strategy of resizing a dynamic array?
+ 
  2.How priority queues are implemented in C++, Java, and Python?
+ 
  3.How to implement a hash table so that the amortized running time of all operations is O(1) on average?
+ 
  4.What are good strategies to keep a binary tree balanced?
 
 You will also learn how services like Dropbox manage to upload some large files instantly and to save a lot of storage space!
